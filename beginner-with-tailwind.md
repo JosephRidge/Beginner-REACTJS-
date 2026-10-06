@@ -2,7 +2,7 @@
 
 This 8-week KICD-style beginner course teaches CSS fundamentals in Week 2, then styles all React work with Tailwind CSS utility classes from Week 5 onward.
 
-**Other tracks:** [Plain CSS track](../plain-css-track/README.md) · [Mid-level track](../mid-level-track/README.md) · [All tracks](../README.md)
+<!-- **Other tracks:** [Plain CSS track](../plain-css-track/README.md) · [Mid-level track](../mid-level-track/README.md) · [All tracks](../README.md) -->
 
 ## Contents
 
@@ -202,4 +202,4 @@ Learners rated AE or BE in a week get a short catch-up task next session. Capsto
 | Testing demo (Week 7) | [Vitest](https://vitest.dev) |
 | Local AI model option | [Ollama](https://ollama.com) |
 
-A plain CSS version of this course is in the [Plain CSS track](../plain-css-track/README.md).
+A plain CSS version of this course is in the [Plain CSS track](beginner-with-plain-css.md).

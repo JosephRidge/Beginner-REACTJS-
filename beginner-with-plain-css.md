@@ -2,7 +2,7 @@
 
 This 8-week beginner course takes learners from HTML to a published React app, and every page and component is styled with ordinary CSS files, with no UI library.
 
-**Other tracks:** [Tailwind track](../tailwind-track/README.md) · [Mid-level track](../mid-level-track/README.md) · [All tracks](../README.md)
+<!-- **Other tracks:** [Tailwind track](../tailwind-track/README.md) · [Mid-level track](../mid-level-track/README.md) · [All tracks](../README.md) -->
 
 ## Contents
 

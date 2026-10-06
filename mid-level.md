@@ -2,7 +2,7 @@
 
 This 8-week KICD-style course is for learners who already know JavaScript and have only heard that React is a UI framework, and it moves quickly through the basics to TypeScript, testing, routing, data fetching, and a deployed capstone.
 
-**Other tracks:** [Plain CSS track](../plain-css-track/README.md) · [Tailwind track](../tailwind-track/README.md) · [All tracks](../README.md)
+<!-- **Other tracks:** [Plain CSS track](../plain-css-track/README.md) · [Tailwind track](../tailwind-track/README.md) · [All tracks](../README.md) -->
 
 ## Contents
 

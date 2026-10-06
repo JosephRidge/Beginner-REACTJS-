@@ -195,4 +195,4 @@ Learners rated AE or BE in a week get a short catch-up task next session. Capsto
 | Testing demo (Week 7) | [Vitest](https://vitest.dev) |
 | Local AI model option | [Ollama](https://ollama.com) |
 
-A Tailwind version of this course is in the [Tailwind track](../tailwind-track/README.md).
+A Tailwind version of this course is in the [Tailwind track](beginner-with-tailwind.md).

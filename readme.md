@@ -4,9 +4,9 @@ Three 8-week, project-based courses that take learners from their current level 
 
 | Track | Who it is for | Styling | Folder |
 | --- | --- | --- | --- |
-| Plain CSS | Absolute beginners | CSS files, Flexbox, Grid, CSS variables | [plain-css-track](plain-css-track/README.md) |
-| Tailwind | Absolute beginners | Core CSS first, then Tailwind utility classes | [tailwind-track](tailwind-track/README.md) |
-| Mid-level | Learners who know JavaScript and have heard of React | Tailwind (optional) | [mid-level-track](mid-level-track/README.md) |
+| Plain CSS | Absolute beginners | CSS files, Flexbox, Grid, CSS variables | [plain-css-track](beginner-with-plain-css.md) |
+| Tailwind | Absolute beginners | Core CSS first, then Tailwind utility classes | [tailwind-track](beginner-with-tailwind.md) |
+| Mid-level | Learners who know JavaScript and have heard of React | Tailwind (optional) | [mid-level-track](mid-level.md) |
 
 ## Choosing a track
 
